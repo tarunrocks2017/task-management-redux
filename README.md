@@ -1,0 +1,1 @@
+this app is for task management with redux 
